@@ -1,16 +1,36 @@
-# objectdetector
 
-A new Flutter project.
+# Fruit Doctor
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+#### Overview
+
+* This application leverages TensorFlow for object detection and classification of various fruits. 
+* Upon selecting a detected fruit, it retrieves and displays the nutritional values via an HTTP call. 
+* This project demonstrates the integration of machine learning with real-time data retrieval, making it a valuable tool for health-conscious users
+
+
+## Screenshots
+
+![object_github 1](https://github.com/user-attachments/assets/9e42febb-1edd-4fdc-afb0-068a49ce3633)
+
+
+## Tech Stack
+
+**Language:** Flutter
+
+**Object Detection:** Tensorflow
+
+**API :** Http, REST API
+## Demo
+
+https://github.com/user-attachments/assets/492adf6b-d3cb-48fc-aee8-4e4640906225
+
+
+
